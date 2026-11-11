@@ -1,11 +1,11 @@
 
-🧩 # Patrones de diseño 
+🧩  Patrones de diseño 
 
-## Descripción
+### Descripción
 
 Este repositorio contiene el desarrollo del laboratorio de patrones de diseño del curso Ingeniería de Software II. Se presentan implementaciones en Python organizadas en las  categorías principales de patrones de diseño.
 
- 💻 ## Organización 
+###  💻 Organización 
  
 El repositorio cuenta con 3 directorioss donde se encuentran los codigos de cada tipo de patron, y 2 archivos pdf, 1 con el planteaiento del laboratorio y otro archivo llamado salidas que cuenta con imagenes de los resultados obtenidos al correr cada uno de los codigos 
 
